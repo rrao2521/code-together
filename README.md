@@ -1,1 +1,2 @@
-##Code Together
+# code-together
+Collaborative real time IDE code exchange
